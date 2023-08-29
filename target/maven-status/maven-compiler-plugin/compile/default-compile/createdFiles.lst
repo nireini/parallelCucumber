@@ -5,9 +5,15 @@ utils\ConfigFileImpl.class
 pageObjects\Base_PO.class
 stepDefinitions\MasterHooks.class
 enums\BrowserType.class
+utils\Date.class
 stepDefinitions\Login_Steps.class
 pageObjects\Contact_Us_PO.class
+pageObjects\Base_PO$1.class
+pageObjects\Crossword_Page.class
 stepDefinitions\ContactUsSteps.class
+pageObjects\PlayMorePage.class
+stepDefinitions\CrosswordSteps.class
 utils\IConfigService.class
 utils\ReadConfigFile.class
+pageObjects\Level_Completion_Screen_Page.class
 utils\Constant.class

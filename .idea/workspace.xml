@@ -5,73 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="774409d5-4651-413f-aa56-c310e656a28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/output/imgs/Mon_Aug_28_12_34_03_BST_2023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/imgs/Sat_Aug_26_14_04_53_BST_2023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Base_PO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Contact_Us_PO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Login_PO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/Tue_Aug_29_13_05_51_BST_2023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/Tue_Aug_29_13_19_04_BST_2023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/imgs/Tue_Aug_29_13_44_33_BST_2023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Crossword_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Level_Completion_Screen_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/PlayMorePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/CrosswordSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Date.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/ContactUs_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Contact_Us2_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Contact_Us_3_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Crossword_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Login_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Products_Page.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/ContactUsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/ContactUsSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/Contact_Us_2_Steps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/Contact_Us_3_Steps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/CrosswordSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Base_PO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Base_PO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/Login_PO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/Login_PO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/Login_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/Login_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/MasterHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stepDefinitions/MasterHooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stepDefinitions/ProductSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/DriverFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/features/contactus.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/features/contactus.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/features/dailyquickcrossword.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/features/dailyquickcrossword.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runners/MainRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/MainRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/BasePage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/ContactUs_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Contact_Us2_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Contact_Us_3_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Crossword_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Login_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Products_Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/ContactUsSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stepDefinitions/ContactUsSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/Contact_Us_2_Steps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/Contact_Us_3_Steps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/CrosswordSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Base_PO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/Base_PO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/Login_PO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/Login_PO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/Login_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stepDefinitions/Login_Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/MasterHooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stepDefinitions/MasterHooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stepDefinitions/ProductSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/DriverFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Cucumber Framework/Cucumber Tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Cucumber Framework/Cucumber Tests.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Cucumber Framework/Cucumber Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Cucumber Framework/Cucumber Tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Cucumber Framework/testng-failed.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-runners.MainRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-runners.MainRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/methods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Cucumber Framework/toc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/runners/MainRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/MainRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,11 +98,12 @@
       <recent name="C:\GIT\brunoGianni\cucumberSeleniumGrid\cucumberSeleniumGrid\src\main\java\utils" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepDefinitions" />
       <recent name="pageObjects" />
       <recent name="enums" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/GIT/brunoGianni/cucumber2/cucumberSeleniumGrid/testng.xml">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify that the level completion screen appears after successfully finishing the day">
     <configuration name="Feature: contactus" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/contactus.feature" />
@@ -154,14 +123,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: dailyquickcrossword" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/login.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/dailyquickcrossword.feature" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberFramework" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="SUGGESTED_NAME" value="Feature: dailyquickcrossword" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -173,15 +142,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Submit valid data via contact us form" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify that the level completion screen appears after successfully finishing the day" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/contactus.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/features/dailyquickcrossword.feature" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberFramework" />
-      <option name="NAME_FILTER" value="^Submit valid data via contact us form$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Submit valid data via contact us form$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Submit valid data via contact us form" />
+      <option name="NAME_FILTER" value="^Verify that the level completion screen appears after successfully finishing the day$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the level completion screen appears after successfully finishing the day$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the level completion screen appears after successfully finishing the day" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -222,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify that the level completion screen appears after successfully finishing the day" />
+        <item itemvalue="Cucumber Java.Feature: dailyquickcrossword" />
         <item itemvalue="TestNG.C:/GIT/brunoGianni/cucumber2/cucumberSeleniumGrid/testng.xml" />
         <item itemvalue="TestNG.MainRunner" />
         <item itemvalue="Cucumber Java.Feature: contactus" />
-        <item itemvalue="Cucumber Java.Scenario: Submit valid data via contact us form" />
-        <item itemvalue="Cucumber Java.Feature: login" />
       </list>
     </recent_temporary>
   </component>

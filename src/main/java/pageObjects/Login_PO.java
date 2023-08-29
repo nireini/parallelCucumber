@@ -3,6 +3,8 @@ package pageObjects;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import java.io.IOException;
+
 public class Login_PO extends Base_PO{
 
     private @FindBy(id = "text")
@@ -30,7 +32,7 @@ public class Login_PO extends Base_PO{
         sendKeys(password_TextField, password);
     }
 
-    public void clickOn_Login_Button() {
+    public void clickOn_Login_Button() throws IOException, InterruptedException {
         waitForWebElementAndClick(login_Button);
     }
 

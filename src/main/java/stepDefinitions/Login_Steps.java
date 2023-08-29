@@ -7,11 +7,14 @@ import io.cucumber.java.en.When;
 import pageObjects.Base_PO;
 import pageObjects.Login_PO;
 
+import java.io.IOException;
+
 public class Login_Steps extends Base_PO{
 
     private Login_PO login_po;
 
     public Login_Steps(Login_PO login_po) {
+
         this.login_po = login_po;
     }
 
@@ -31,7 +34,7 @@ public class Login_Steps extends Base_PO{
     }
 
     @And("I click on the login button")
-    public void i_click_on_the_login_button() {
+    public void i_click_on_the_login_button() throws IOException, InterruptedException {
         login_po.clickOn_Login_Button();
     }
 

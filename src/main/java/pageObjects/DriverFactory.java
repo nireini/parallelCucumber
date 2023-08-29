@@ -43,6 +43,7 @@ public class DriverFactory {
 			case "firefox" -> {
 				System.setProperty("webdriver.gecko.driver", GECKO_DRIVER_DIRECTORY);
 				FirefoxOptions firefoxOptions = new FirefoxOptions();
+				firefoxOptions.setBinary("C:/Program Files/Mozilla Firefox/firefox.exe");
 				firefoxOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 				driver = new FirefoxDriver(firefoxOptions);
 				break;
@@ -53,8 +54,11 @@ public class DriverFactory {
 	}
 
 	private static String getBrowserType() {
+		String useGrid = "false";
 		String browserType = null;
 		String browserTypeRemoteValue = System.getProperty("browserType");
+
+		System.out.println("browserTypeRemoteValue: " + browserTypeRemoteValue);
 
 		try {
 			if (browserTypeRemoteValue == null || browserTypeRemoteValue.isEmpty()) {
